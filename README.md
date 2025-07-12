@@ -1,5 +1,7 @@
 These are my notes for [AI Engineering](https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302) Book by Chip Huyen. I hope this will be helpful for you all!
 
+![image](https://m.media-amazon.com/images/I/815KH9GjFTL._SL1500_.jpg)
+
 ## Index
 
 - [1. Introduction](1_Introduction.md)
